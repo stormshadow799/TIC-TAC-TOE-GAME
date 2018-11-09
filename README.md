@@ -1,6 +1,6 @@
 # TIC-TAC-TOE-GAME
 # I have created this game in python in just 50 lines of Code.
-# I hope that u will like this. Enjoy!!!!!!!!!!
+# I hope that u will like this. Enjoy!!!!!!!!!
 
 import sys
 def show(lists):
